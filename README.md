@@ -80,22 +80,4 @@
 
 ---
 
-### 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raheembakhsh761&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheembakhsh761&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheembakhsh761&layout=compact&theme=radical" height="165">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raheembakhsh761&color=brightgreen" alt="profile views">
-</p>
-
----
-
 *✨ Always learning, building, and creating something new!*
