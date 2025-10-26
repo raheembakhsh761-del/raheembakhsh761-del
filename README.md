@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #0077b5;">Engr. Raheem Bakhsh</h1>
+<h1 align="center" style="color: #0077b5;">Raheem Bakhsh</h1>
 
 <h3 align="center"> RISC-V | Embedded Systems | AI | MATLAB | Digital System Design | Arduino Projects </h3>
 
@@ -73,9 +73,7 @@
   <a href="mailto:raheembakhsh761@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="35" width="35" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@SmarStudy" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Youtube_icon.png" alt="YouTube" height="35" width="35" />
-  </a>
+  
 </p>
 
 ---
