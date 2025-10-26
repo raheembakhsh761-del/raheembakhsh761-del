@@ -62,7 +62,8 @@
 - 🚀 Launch my **AI-based learning app**  
 - 🎥 Grow my **YouTube channel – SmarStudy**  
 - 💡 Become a **skilled AI and Embedded Systems developer**
-
+- 
 ---
 
-*✨ Always learning, building, and creating something new!*
+   *Always open to collaborations on hardware design, verification, and RISC-V projects!*  
+---
