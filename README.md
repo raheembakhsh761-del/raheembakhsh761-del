@@ -1,80 +1,65 @@
-<h1 align="center">👋 Hi, I'm Raheem Bakhsh</h1>
+# 👋 Hi, I'm Raheem Bakhsh  
 
-<p align="center">
-  🎓 <b>BS Electrical Engineering Student</b> at Namal University, Mianwali <br>
-  💻 <b>Future Programmer | Embedded Systems & AI Enthusiast</b>
-</p>
+🎓 **BS Electrical Engineering Student | Future Programmer | Tech Enthusiast**  
 
-<p align="center">
-  <a href="mailto:raheembakhsh761@gmail.com"><img src="https://img.shields.io/badge/Email-raheembakhsh761%40gmail.com-red?logo=gmail"></a>
-  <a href="https://github.com/raheembakhsh761"><img src="https://img.shields.io/badge/GitHub-raheembakhsh761-black?logo=github"></a>
-  <a href="https://www.youtube.com/@SmarStudy"><img src="https://img.shields.io/badge/YouTube-SmarStudy-red?logo=youtube"></a>
-</p>
+Welcome to my GitHub profile!  
+I’m passionate about **electronics, programming, and AI-based systems**.  
+I love creating projects that combine **hardware and software**, and I’m constantly improving my skills in **C++, MATLAB, Python, and Verilog**.  
 
 ---
 
-### 🧠 About Me
-- 🎓 BS **Electrical Engineering** student passionate about **hardware and programming**
-- 💡 Exploring **Embedded Systems, Signal Processing, and AI**
-- ⚙️ Experienced with **Arduino, Verilog HDL, MATLAB, and C++**
-- 📱 Working on an **AI-based Android app in C++**
-- 🧩 Conducted **Autism Awareness Sessions** across Namal University
+## 🚀 About Me  
+- 🎓 Studying **Electrical Engineering** at **Namal University, Mianwali**  
+- 💡 Interested in **Embedded Systems, AI, and Signal Processing**  
+- ⚙️ Experienced with **Arduino**, **MATLAB**, **Verilog**, and **SolidWorks**  
+- 💻 Learning to build **AI-based Android apps in C++**  
+- 🧠 Always exploring new tools and technologies  
 
 ---
 
-### 🚀 My Projects
-
+## 🧩 My Projects  
 | Project | Description | Tools |
 |----------|--------------|-------|
-| 🤖 **Line-Following & Hurdle-Avoiding Robot** | Arduino-based robot that detects and avoids obstacles | Arduino Uno, L298M Motor Driver |
-| 🗣️ **Voice-Based Attendance System** | Recognizes voice samples and marks attendance in Excel | Python, MATLAB, Excel |
-| 🎧 **Voice Extraction (FFT-based)** | Extracts one voice from a mixture of many using FFT | MATLAB |
+| 🤖 **Line-Following & Hurdle-Avoiding Robot** | Arduino-based robot that detects and follows a line while avoiding obstacles | Arduino Uno, L298M Motor Driver |
+| 🗣️ **Voice-Based Attendance System** | Marks attendance by comparing recorded voices with stored samples | Python, MATLAB, Excel |
+| 🔊 **Voice Extraction Using FFT** | Extracts a single voice from a mixed audio signal using signal processing techniques | MATLAB |
 | ⚡ **4-bit ALU Design** | ALU with Carry, Zero, Overflow, Sign, and Parity flags | Verilog HDL |
-| 📡 **Transmission Line (Rigorous Method)** | Long-line analysis using rigorous equations | MATLAB |
-| 🧠 **Autism Awareness Project** | Awareness sessions across departments | Team Project |
+| 🧮 **Transmission Line Analysis** | Solving long line problems using rigorous method | MATLAB |
+| 🧠 **Autism Awareness Sessions** | Conducted awareness sessions across university departments | Team Project |
 
 ---
 
-### 🛠️ Tech Stack
-
+## 🛠️ Tech Stack  
 **Languages:**  
-`C` • `C++` • `Python` • `MATLAB` • `Verilog HDL`
+C / C++ • Python • MATLAB • Verilog HDL  
 
 **Tools & Platforms:**  
-`Arduino IDE` • `SolidWorks` • `Icarus Verilog` • `GTKWave` • `GitHub` • `Excel`
+Arduino IDE • SolidWorks • Icarus Verilog (iverilog) • GTKWave • GitHub • Excel  
 
-**Interests:**  
-`Embedded Systems` • `Digital Design` • `Signal Processing` • `AI Applications`
-
----
-
-### 🌱 Currently Learning
-- RISC-V Processor (Single-Cycle Architecture)
-- AI-based Android App Development in C++
-- Advanced Audio Signal Processing in MATLAB
+**Areas of Interest:**  
+Embedded Systems • Digital Design • AI Applications • Signal & Audio Processing  
 
 ---
 
-### 🎯 My Goals
-- 🚀 Publish my **AI-based learning app**  
-- 🎥 Launch my **YouTube Channel: SmarStudy**  
-- 💡 Become a **skilled AI & Embedded Systems Developer**
+## 🌱 Currently Learning  
+- RISC-V Processor Design  
+- AI-based Android App Development in C++  
+- Advanced MATLAB Audio Processing  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheembakhsh761&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheembakhsh761&layout=compact&theme=radical" height="165">
-</p>
+## 🎯 Goals  
+- Build and publish my own **AI-based learning app**  
+- Share technical content on my upcoming YouTube channel **SmarStudy**  
+- Become a **skilled embedded systems and AI developer**
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raheembakhsh761&color=brightgreen" alt="profile views">
-</p>
+## 📫 Connect with Me  
+- 📧 **Email:** [raheembakhsh761@gmail.com](mailto:raheembakhsh761@gmail.com)  
+- 💻 **GitHub:** [github.com/raheembaksh761](https://github.com/raheembaksh761)  
+- 🎥 **YouTube (coming soon):** [SmarStudy](https://www.youtube.com/@SmarStudy)  
 
 ---
 
-⭐ *"Keep learning, keep building — every small step matters!"*
+⭐ *"Keep learning, keep building — every small step matters!"*  
