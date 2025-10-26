@@ -65,17 +65,4 @@
 
 ---
 
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://github.com/raheembakhsh761" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="35" width="35" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:raheembakhsh761@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="35" width="35" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
-</p>
-
----
-
 *✨ Always learning, building, and creating something new!*
